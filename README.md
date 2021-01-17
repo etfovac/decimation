@@ -10,5 +10,5 @@ A simple Decimation example — it decreases sample rate by integer factor M
 
 More information:  
 MATLAB Help  
-[dspGuru FAQs: Decimation](https://dspguru.com/dsp/faqs/multirate/decimation/)
-[ETF RS: Milic](http://home.etf.rs/~milic/Solution_Manual/index.html)
+[dspGuru FAQs: Decimation](https://dspguru.com/dsp/faqs/multirate/decimation/)  
+[ETF RS: Milic](http://home.etf.rs/~milic/Solution_Manual/index.html)  
