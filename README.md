@@ -1,12 +1,15 @@
 # Decimation  
 [![View Decimation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/85810-decimation) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/decimation/blob/master/LICENSE) [![GitHub (pre-)release](https://img.shields.io/badge/releases--yellow.svg)](https://github.com/etfovac/decimation/releases/)  
 
-A simple Decimation example — it decreases sample rate by integer factor M  
+Decrease sample rate by integer factor M.  
+Plot input and output signals in Time and Frequency domains.
 
 ### Keywords: 
 > MATLAB  
 > Digital Signal Processing  
 
+### Example  
+Run *DecimationTest.mlx* in MATLAB or browser to get the plots and see how to configure the input parameters.
 
 More information:  
 MATLAB Help  
